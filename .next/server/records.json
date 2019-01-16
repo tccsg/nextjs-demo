@@ -1,0 +1,86 @@
+{
+  "modules": {
+    "byIdentifier": {
+      "external \"react\"": 0,
+      "external \"next/link\"": 1,
+      "external \"styled-jsx/style\"": 2,
+      "node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--5!layouts/HeaderFooter.tsx f1e44bd119f6d101d5fbb28c3c4e4a2d": 3,
+      "external \"@babel/runtime/regenerator\"": 4,
+      "external \"next/dynamic\"": 5,
+      "node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--5!pages/Home/home.tsx": 6,
+      "node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--5!components/OldDriver.tsx": 7,
+      "multi ./pages/Aboutus/aboutus.tsx": 8,
+      "node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--5!pages/Aboutus/aboutus.tsx": 9,
+      "multi ./pages/Help/help.tsx": 10,
+      "node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--5!pages/Help/help.tsx": 11,
+      "multi ./pages/Helps/helps.tsx": 12,
+      "node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--5!pages/Helps/helps.tsx": 13,
+      "multi ./pages/Home/home.tsx": 14,
+      "multi ./pages/index.js": 15,
+      "node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--4!pages/index.js": 16,
+      "multi node_modules/next/dist/pages/_app.js": 17,
+      "node_modules/next/dist/pages/_app.js": 18,
+      "external \"next/app\"": 19,
+      "multi node_modules/next/dist/pages/_error.js": 20,
+      "node_modules/next/dist/pages/_error.js": 21,
+      "external \"next/error\"": 22,
+      "multi node_modules/next/dist/pages/_document.js": 23,
+      "node_modules/next/dist/pages/_document.js": 24,
+      "external \"next/document\"": 25
+    },
+    "usedIds": {
+      "0": 0,
+      "1": 1,
+      "2": 2,
+      "3": 3,
+      "4": 4,
+      "5": 5,
+      "6": 6,
+      "7": 7,
+      "8": 8,
+      "9": 9,
+      "10": 10,
+      "11": 11,
+      "12": 12,
+      "13": 13,
+      "14": 14,
+      "15": 15,
+      "16": 16,
+      "17": 17,
+      "18": 18,
+      "19": 19,
+      "20": 20,
+      "21": 21,
+      "22": 22,
+      "23": 23,
+      "24": 24,
+      "25": 25
+    }
+  },
+  "chunks": {
+    "byName": {
+      "static/iBFuv~uV52HBggbEmxse1/pages/Aboutus/aboutus.js": 0,
+      "static/iBFuv~uV52HBggbEmxse1/pages/Help/help.js": 1,
+      "static/iBFuv~uV52HBggbEmxse1/pages/Helps/helps.js": 2,
+      "static/iBFuv~uV52HBggbEmxse1/pages/Home/home.js": 3,
+      "static/iBFuv~uV52HBggbEmxse1/pages/index.js": 4,
+      "static/iBFuv~uV52HBggbEmxse1/pages/_app.js": 5,
+      "static/iBFuv~uV52HBggbEmxse1/pages/_error.js": 6,
+      "static/iBFuv~uV52HBggbEmxse1/pages/_document.js": 7
+    },
+    "bySource": {
+      "0 node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--5!pages/Home/home.tsx ../../components/OldDriver": 8
+    },
+    "usedIds": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  }
+}

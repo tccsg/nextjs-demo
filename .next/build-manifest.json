@@ -1,0 +1,45 @@
+{
+  "devFiles": [],
+  "pages": {
+    "/Aboutus/aboutus": [
+      "static/runtime/webpack-6b868465cdf28d93ee76.js",
+      "static/chunks/commons.c067fd8597c19f34664c.js",
+      "static/runtime/main-a7a766de76dd8476ae4e.js"
+    ],
+    "/Help/help": [
+      "static/runtime/webpack-6b868465cdf28d93ee76.js",
+      "static/chunks/commons.c067fd8597c19f34664c.js",
+      "static/runtime/main-a7a766de76dd8476ae4e.js"
+    ],
+    "/Helps/helps": [
+      "static/runtime/webpack-6b868465cdf28d93ee76.js",
+      "static/chunks/commons.c067fd8597c19f34664c.js",
+      "static/runtime/main-a7a766de76dd8476ae4e.js"
+    ],
+    "/Home/home": [
+      "static/runtime/webpack-6b868465cdf28d93ee76.js",
+      "static/chunks/commons.c067fd8597c19f34664c.js",
+      "static/runtime/main-a7a766de76dd8476ae4e.js"
+    ],
+    "/index": [
+      "static/runtime/webpack-6b868465cdf28d93ee76.js",
+      "static/chunks/commons.c067fd8597c19f34664c.js",
+      "static/runtime/main-a7a766de76dd8476ae4e.js"
+    ],
+    "/_app": [
+      "static/runtime/webpack-6b868465cdf28d93ee76.js",
+      "static/chunks/commons.c067fd8597c19f34664c.js",
+      "static/runtime/main-a7a766de76dd8476ae4e.js"
+    ],
+    "/_error": [
+      "static/runtime/webpack-6b868465cdf28d93ee76.js",
+      "static/chunks/commons.c067fd8597c19f34664c.js",
+      "static/runtime/main-a7a766de76dd8476ae4e.js"
+    ],
+    "/": [
+      "static/runtime/webpack-6b868465cdf28d93ee76.js",
+      "static/chunks/commons.c067fd8597c19f34664c.js",
+      "static/runtime/main-a7a766de76dd8476ae4e.js"
+    ]
+  }
+}

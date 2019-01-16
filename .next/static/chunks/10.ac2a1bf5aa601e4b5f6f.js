@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[10],{72:function(n,e,t){"use strict";t.r(e);var a=t(0),c=t.n(a);e.default=function(){return c.a.createElement("img",{src:"/static/images/yq.jpg"})}}}]);
