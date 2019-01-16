@@ -1,1 +1,0 @@
-{"version":3,"file":"0.js","sources":["webpack:///./components/OldDriver.tsx"],"sourcesContent":["export default () => (<img src=\"/static/images/yq.jpg\"></img>)\n\n// <img src=\"/static/images/yq.jpg\"></img>"],"mappings":";;;;;;;;;;;;;;;;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA;;;;A","sourceRoot":""}
