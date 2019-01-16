@@ -1,37 +1,33 @@
 {
   "name": "nextjs-demo",
   "version": "1.0.0",
-  "description": "一个nextjs的demo",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "next",
-    "start": "next start",
     "build": "next build",
-    "starts": "NODE_ENV=production node server.js",
-    "export": "npm run build && next export"
+    "start": "next start"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/tccsg/nextjs-demo.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "tccsg",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/tccsg/nextjs-demo/issues"
   },
   "homepage": "https://github.com/tccsg/nextjs-demo#readme",
   "dependencies": {
+    "@zeit/next-css": "^1.0.1",
     "@zeit/next-typescript": "^1.1.1",
+    "antd": "^3.12.3",
+    "babel-plugin-import": "^1.11.0",
     "next": "^7.0.2",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
     "typescript": "^3.2.2"
-  },
-  "devDependencies": {
-    "express": "^4.16.4",
-    "fork-ts-checker-webpack-plugin": "^0.5.2",
-    "ts-loader": "^5.3.3"
   }
 }
