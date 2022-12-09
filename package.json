@@ -30,7 +30,7 @@
     "typescript": "^3.2.2"
   },
   "devDependencies": {
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "fork-ts-checker-webpack-plugin": "^0.5.2",
     "ts-loader": "^5.3.3"
   }
